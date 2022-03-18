@@ -1,0 +1,50 @@
+{
+    "signup": {
+        "name": "João Pretto",
+        "cpf": "00012356333",
+        "email": "joao.pretto@hotmail.com",
+        "whatsapp": "14888841234",
+        "address": {
+            "postalCode": "17057653",
+            "street": "Rua Evangelina Messias de Oliveira",
+            "number": "1555",
+            "details": "Ap 142",
+            "district": "Parque Santa Cândida",
+            "city_state": "Bauru/SP"
+        },
+        "delivery_method": "Moto",
+        "foto_cnh": "cnh-digital.jpg"
+    },
+    "cpf_inv": {
+        "name": "Chaganagas",
+        "cpf": "00012356AAA",
+        "email": "chagana.pretto@hotmail.com",
+        "whatsapp": "1498745215",
+        "address": {
+            "postalCode": "17057653",
+            "street": "Rua Evangelina Messias de Oliveira",
+            "number": "1555",
+            "details": "Ap 142",
+            "district": "Parque Santa Cândida",
+            "city_state": "Bauru/SP"
+        },
+        "delivery_method": "Moto",
+        "foto_cnh": "cnh-digital.jpg"
+    },
+    "email_inv": {
+        "name": "Chaganagas",
+        "cpf": "00012356333",
+        "email": "chagana.com",
+        "whatsapp": "1498745215",
+        "address": {
+            "postalCode": "17057653",
+            "street": "Rua Evangelina Messias de Oliveira",
+            "number": "1555",
+            "details": "Ap 142",
+            "district": "Parque Santa Cândida",
+            "city_state": "Bauru/SP"
+        },
+        "delivery_method": "Moto",
+        "foto_cnh": "cnh-digital.jpg"
+    }
+}
